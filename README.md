@@ -1,1 +1,1 @@
-# makine-renmesi-2
+# makine-ogrenmesi-2
